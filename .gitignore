@@ -13,3 +13,4 @@ dmd
 coverage
 jsdoc-api
 node_modules
+.history
